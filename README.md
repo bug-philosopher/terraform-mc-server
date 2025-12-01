@@ -1,7 +1,7 @@
 # Automatic Minecraft Server deployment using Terraform in Proxmox
 
 Automatically deploy Minecraft Java Edition servers using Proxmox, Terraform, cloud init, and a fully automated VM template workflow.  
-Current a work in progress project
+<p align="center"> Current a work in progress project </p>
 <p align="center">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-AE3BFF?logo=terraform&logoColor=white&style=for-the-badge" />
   <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge" />
